@@ -1,0 +1,11 @@
+add = 'ADD'
+addName = 'ADDNAME'
+addLogin = 'ADDLOGIN'
+addPass = 'ADDPASS'
+delete = 'DEL'
+deleteName = 'DELNAME'
+confirm = 'CONFIRM'
+done = 'DONE'
+
+setActiveMessage = 'SETACTIVEMESSAGE'
+timer = 'TIMER'
